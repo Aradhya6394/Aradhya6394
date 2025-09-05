@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Java** and **Artificial Intelligence**  
 - 💻 I enjoy solving coding challenges and building projects  
 - 🎯 Goal: Become strong in **DSA, AI, and Software Development**  
-- 📫 Reach me on: [GitHub](https://github.com/Aradhya6394) | [LinkedIn](https://linkedin.com/in/your-link)  
+- 📫 Reach me on: [GitHub](https://github.com/Aradhya6394) | [LinkedIn](https://www.linkedin.com/in/aradhya-patel-8b4856328/)  
 
 ---
 
