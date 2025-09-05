@@ -24,6 +24,8 @@
 - **Interested in:** Software Development & Problem Solving  
 
 ---
+
+---
 ### My Popular Projects
 
 <p align="left">
@@ -36,7 +38,11 @@
   <a href="https://github.com/Aradhya6394/Popular-languages-graph">
     <img width="220" alt="Popular-languages-graph" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Popular-languages-graph&theme=radical" />
   </a>
+  <a href="https://github.com/Aradhya6394/graph-theory-">
+    <img width="220" alt="graph-theory" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=graph-theory-&theme=radical" />
+  </a>
 </p>
+
 ---
 
 ## 🌐 Connect with Me  
