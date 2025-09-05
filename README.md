@@ -24,6 +24,20 @@
 - **Interested in:** Software Development & Problem Solving  
 
 ---
+### My Popular Projects
+
+<p align="left">
+  <a href="https://github.com/Aradhya6394/amazon_clone">
+    <img width="220" alt="amazon_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=amazon_clone&theme=radical" />
+  </a>
+  <a href="https://github.com/Aradhya6394/Stock-Market-Dashboard">
+    <img width="220" alt="Stock-Market-Dashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Stock-Market-Dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/Aradhya6394/Popular-languages-graph">
+    <img width="220" alt="Popular-languages-graph" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Popular-languages-graph&theme=radical" />
+  </a>
+</p>
+---
 
 ## 🌐 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Aradhya6394)  
