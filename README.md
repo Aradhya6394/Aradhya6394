@@ -3,19 +3,18 @@
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Java** and **Artificial Intelligence**  
 - 💻 I enjoy solving coding challenges and building projects  
-- 🎯 Goal: Become strong in **DSA, AI, and Software Development**  
+- 🎯 Goal: Become strong in **DSA, AI, and Software Development**
+- 📄 Resume:[View My Resume](https://drive.google.com/your-resume-link-here)
+
 - 📫 Reach me on: [GitHub](https://github.com/Aradhya6394) | [LinkedIn](https://www.linkedin.com/in/aradhya-patel-8b4856328/)  
 
 ---
-
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aradhya6394&show_icons=true&theme=radical)  
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Aradhya6394&theme=radical)  
+| Stats | Streak | Top Languages |
+|-------|--------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aradhya6394&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=Aradhya6394&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya6394&layout=compact&theme=radical) |
 
-## 🧠 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya6394&layout=compact&theme=radical)  
 
 ---
 
