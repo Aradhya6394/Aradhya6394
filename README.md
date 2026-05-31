@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning **Java** and **Artificial Intelligence**  
 - 💻 I enjoy solving coding challenges and building projects  
 - 🎯 Goal: Become strong in **DSA, AI, and Software Development**
-- 📄 Resume:[View My Resume](https://docs.google.com/document/d/1YPOgmBxVnD-4eeMtxo4rfzKOLU20fDkx2dyhH9OlMjw/edit?usp=drivesdk)
+- 📄 Resume:[View My Resume](https://drive.google.com/file/d/1dgHaqsHpynsx54kNKVIG-4DWCoFwjSmP/view?usp=sharing)
 
-- 📫 Reach me on: [GitHub](https://github.com/Aradhya6394) | [LinkedIn](https://www.linkedin.com/in/aradhya-patel-8b4856328/)  
+- 📫 Reach me on: [GitHub](https://github.com/Aradhya6394) | [LinkedIn](https://www.linkedin.com/in/aradhya-patel-8b4856328/)
+- Portfolio:[Portfolio](https://aradhya-portfolio-taupe.vercel.app/)
 
 ---
 ## 📊 GitHub Stats  
