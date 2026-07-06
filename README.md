@@ -39,8 +39,8 @@
   <a href="https://github.com/Aradhya6394/WalletBot">
     <img width="220" alt="WalletBot" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Popular-languages-graph&theme=merko" />
   </a>
-  <a href="https://github.com/Aradhya6394/graph-theory-">
-    <img width="220" alt="graph-theory" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=graph-theory-&theme=merko" />
+  <a href="https://github.com/Aradhya6394/Attendence-App">
+    <img width="220" alt="Attendence-App" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=graph-theory-&theme=merko" />
   </a>
 </p>
 
