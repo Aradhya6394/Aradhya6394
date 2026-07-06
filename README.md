@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Java, Python,JavaScript   
+- **Languages:** Java, Python,JavaScript,C  
 - **Exploring:** Artificial Intelligence, Machine Learning  
 - **Interested in:** Software Development & Problem Solving  
 
