@@ -31,13 +31,13 @@
 
 <p align="left">
   <a href="https://github.com/Aradhya6394/Movie-Recommender-System">
-    <img width="220" alt="amazon_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=amazon_clone&theme=merko" />
+    <img width="220" alt="Movie-Recommender-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=amazon_clone&theme=merko" />
   </a>
   <a href="https://github.com/Aradhya6394/Stock-Market-Dashboard">
     <img width="220" alt="Stock-Market-Dashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Stock-Market-Dashboard&theme=merko" />
   </a>
   <a href="https://github.com/Aradhya6394/WalletBot">
-    <img width="220" alt="Popular-languages-graph" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Popular-languages-graph&theme=merko" />
+    <img width="220" alt="WalletBot" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=Popular-languages-graph&theme=merko" />
   </a>
   <a href="https://github.com/Aradhya6394/graph-theory-">
     <img width="220" alt="graph-theory" src="https://github-readme-stats.vercel.app/api/pin/?username=Aradhya6394&repo=graph-theory-&theme=merko" />
