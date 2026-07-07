@@ -46,7 +46,7 @@ Outside coding, you'll usually find me exploring new tech, reading about softwar
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_PROFILE">
+<a href="(https://leetcode.com/u/aradhya789/)">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
