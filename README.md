@@ -42,27 +42,24 @@ Outside coding, you'll usually find me exploring new tech, reading about softwar
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
 
-<a href="(https://leetcode.com/u/aradhya789/)">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/aradhya789/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-aradhya789-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
-
-<a href="YOUR_GFG_PROFILE">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://neetcode.io/">
-<img src="https://img.shields.io/badge/NeetCode-Roadmap-7C3AED?style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/profile/su24sc70" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-su24sc70-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 </p>
 
----
+
+
 
 # ⚡ Tech Stack
+---
 
 <div align="center">
 
